@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/porizou/catkin_ws/devel/include",
+        "/opt/ros/noetic/include",
+        "/home/porizou/catkin_ws/src/dwa_local_planner/include",
+        "/home/porizou/catkin_ws/src/dynamic_reconfigure_client_sample/include",
+        "/home/porizou/catkin_ws/src/rr_openrover_stack/rr_openrover_driver/include",
+        "/home/porizou/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include",
+        "/home/porizou/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include",
+        "/home/porizou/catkin_ws/src/turtlebot3/turtlebot3_slam/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
